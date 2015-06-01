@@ -786,6 +786,9 @@
 	{"name": "Yveltal", "number": 717, "baseStats": [130, 130, 95, 130, 95, 100], "types": ["Dark", "Flying"], "abilities": ["Dark Aura"]},
 	{"name": "Zygarde", "number": 718, "baseStats": [130, 95, 130, 95, 130, 100], "types": ["Dragon", "Ground"], "abilities": ["Aura Break"]},
 	{"name": "Diancie", "number": 719, "baseStats": [50, 100, 150, 100, 150, 50], "types": ["Rock", "Fairy"], "abilities": ["Clear Body"]},
-	{"name": "Mega Diancie", "number": 719, "baseStats": [50, 160, 110, 160, 110, 110], "types": ["Rock", "Fairy"], "abilities": ["Magic Bounce"]}
+	{"name": "Mega Diancie", "number": 719, "baseStats": [50, 160, 110, 160, 110, 110], "types": ["Rock", "Fairy"], "abilities": ["Magic Bounce"]},
+	{"name": "Hoopa Confined", "number": 720, "baseStats": [80, 110, 60, 150, 130, 70], "types": ["Psychic", "Ghost"], "abilities": ["Magician"]},
+	{"name": "Hoopa Unbound", "number": 720, "baseStats": [80, 160, 60, 170, 130, 80], "types": ["Psychic", "Dark"], "abilities": ["Magician"]},
+	{"name": "Volcanion", "number": 721, "baseStats": [80, 110, 120, 130, 90, 70], "types": ["Fire", "Water"], "abilities": ["Water Absorb"]}
 
 ]
